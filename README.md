@@ -5,7 +5,14 @@ This is based on creating a chatbot for my control panel of robotic web page. Th
 
 
 Procedure
-create a skill
-create an intent
-create an entity
-work with your Dialog
+
+<span style='font-size:100px;'>&#9825;</span>create a skill
+
+
+<span style='font-size:100px;'>&#9825;</span>create an intent
+
+
+<span style='font-size:100px;'>&#9825;</span>create an entity
+
+
+<span style='font-size:100px;'>&#9825;</span>work with your Dialog
